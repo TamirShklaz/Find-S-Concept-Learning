@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As3/Instance.h
+string
+-
+vector
+-
+ostream
+-
+
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As3/main.cpp
+iostream
+-
+vector
+-
+Instance.h
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As3/Instance.h
+
